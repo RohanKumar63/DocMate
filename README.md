@@ -18,9 +18,6 @@ This project is a full-stack document application, similar to Google Docs, built
 git clone https://github.com/RohanKumar63/DocMate
 cd DocMate
 ```
-
-# Project Name
-
 ## Installation
 
 ### Server Setup
